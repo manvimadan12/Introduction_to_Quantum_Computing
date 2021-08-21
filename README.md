@@ -8,3 +8,7 @@ This repository contains my course notes, externalk reference links and lecture 
 
 ### Books
 1. [The fabric of Reality](https://www.penguinrandomhouse.com/books/330123/the-fabric-of-reality-by-david-deutsch/)
+
+# TO DO
+Add Notes
+Add quiz pdfs
